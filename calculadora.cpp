@@ -5,6 +5,11 @@ using namespace std;
 
 int main(void) {
 
+    /*"""
+    Código interativo, mas não funcional para QT. Para o QT, foi criado a pasta nesse repositório,
+    chamada calculadora_simples_qt.
+    """*/
+
     int num1, num2;
     float div, soma, mul, sub;
     string string2, string3;

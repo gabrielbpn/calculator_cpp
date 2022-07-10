@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/gabriel/Área de Trabalho/calculator_gces/calculator_cpp/calculadora.cpp
+/home/gabriel/Área de Trabalho/GCES/calculator_gces/calculator_cpp/calculadora.cpp
 iostream
 -
 stdlib.h
